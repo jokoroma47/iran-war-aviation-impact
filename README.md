@@ -87,4 +87,4 @@ data points within the analysis.
 ## Contact
 
 GitHub: jokoroma47  
-LinkedIn: linkedin.com/in/jeremiah-okoroma-724908116
+LinkedIn: [View profile](linkedin.com/in/jeremiah-okoroma-724908116)
