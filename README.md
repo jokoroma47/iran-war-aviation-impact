@@ -89,3 +89,9 @@ data points within the analysis.
 **Portfolio:** [jokoroma47.github.io](https://jokoroma47.github.io)
 **GitHub:** [@jokoroma47](https://github.com/jokoroma47)
 **LinkedIn:** [linkedin.com/in/jeremiah-okoroma-724908116](https://linkedin.com/in/jeremiah-okoroma-724908116)
+
+## Data Credit
+
+Dataset sourced from Kaggle:
+**zkskhurram** — *Global Civil Aviation Disruption 2026 — Iran/US War*
+[kaggle.com/datasets/zkskhurram/global-civil-aviation-disruption2026-iranus-war](https://www.kaggle.com/datasets/zkskhurram/global-civil-aviation-disruption2026-iranus-war)
