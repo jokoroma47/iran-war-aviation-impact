@@ -54,7 +54,7 @@ impact, and a full data methodology page.
 
 ## Tools Used
 
-Power BI · MySQL · Excel · Python · HTML · CSS · JavaScript
+Power BI · MySQL · Excel · Python
 
 ---
 
